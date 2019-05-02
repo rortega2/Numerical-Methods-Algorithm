@@ -8,7 +8,6 @@ function [I] = Simpson(x,y)
 %   y - Vector y
 % Output:
 %   I = Evaluatted Integral for the function of values y wit respect to x
-% Love you Dr. B <3
 % Created: 19 April 2019
 % By: Roberto Ortega :D
 
