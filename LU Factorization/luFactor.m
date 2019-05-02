@@ -10,7 +10,6 @@ function [L,U,P] = luFactor(A)
 %   U - Upper Triangular Matrix
 %   P - Pivot Matrix
 %
-% Love you Dr. B <3
 % Created: 1 April 2019
 % By: Roberto Ortega :D
 
