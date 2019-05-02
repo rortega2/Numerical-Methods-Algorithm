@@ -14,7 +14,6 @@ function [root, fx, ea, iter] = falsePosition(func, xl, xu, es, maxiter)
 %   ea - approximate relative error
 %   iter - iterations performed
 % 
-% Love you Dr. B <3 
 % Created: 28 February 2019
 % By: Roberto Ortega :D
 
