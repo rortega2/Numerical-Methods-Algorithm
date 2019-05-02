@@ -1,5 +1,5 @@
 # False Position 
-Uses False Position to evaluate the root at a given function
+MATLAB Funciton that uses False Position to evaluate the root at a given function
 ### Input:
 * func - Name of function
 * xl,xu - Lower and upper guesses
@@ -10,3 +10,6 @@ Uses False Position to evaluate the root at a given function
 * fx - function evalated at root location
 * ea - approximate relative error
 * iter - iterations performed
+
+## Disclaimer
+This MATLAB function is functional on its limited use. 
