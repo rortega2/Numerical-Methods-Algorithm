@@ -11,3 +11,6 @@ Uses Bisection Method to evaluate the root at a given function
 * fx = function value at root
 * ea = approximate relative error (%)
 * iter = number of iterations
+
+## Disclaimer
+This MATLAB is functional with its limited use
