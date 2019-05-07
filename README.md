@@ -4,3 +4,4 @@
 2. False Postion Method - Root Finding Method
 3. LU Factororization - Factors matrix into various matrix's
 4. Prime - Determines the prime numbers in a given interval
+5. Quadratic Formula - Calculates the roots of a given trinomial using the Quadratic Formula 
