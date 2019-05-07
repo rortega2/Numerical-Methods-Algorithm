@@ -1,5 +1,5 @@
 # Prime
-Determines all of the prime numbers given an interval, m and n
+MATLAB function that determines all of the prime numbers given an interval, m and n
 ### Input:
 * m - Starting Integer
 * n - Ending Integer
